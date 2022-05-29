@@ -109,8 +109,8 @@ nav.sticky .menu-btn{
 
 /* home section styling */
 .home{
-  height: 100vh;
-  width: 100%;
+  height: 50vh;
+  width: 50%;
   background: url("Images/home.png") no-repeat;
   background-size: cover;
   background-position: center;
